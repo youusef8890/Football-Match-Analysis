@@ -22,6 +22,15 @@ hardest broadcast-analysis problems:\
 
 ------------------------------------------------------------------------
 
+## 🎥 Demo
+
+Click the image to watch the full demo video:
+
+[![Football Match Analysis Demo](demo.png)](https://drive.google.com/file/d/1TtkqHdoEVDEkzwcSBYVVq5r9obOoiHTh/view)
+
+
+------------------------------------------------------------------------
+
 ## 🎯 Key Features
 
 -   **Persistent Player Tracking** using YOLO + BoT-SORT
